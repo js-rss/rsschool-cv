@@ -1,1 +1,1 @@
-https://js-rss.github.io/rsschool-cv/cv
+https://js-rss.github.io/rsschool-cv/
